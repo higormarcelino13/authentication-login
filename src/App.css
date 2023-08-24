@@ -1,0 +1,9 @@
+body {
+  background-image: url('/public/svg/Catalogue-pana.svg'); /* Substitua pelo caminho do seu arquivo SVG de plano de fundo */
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden; 
+}

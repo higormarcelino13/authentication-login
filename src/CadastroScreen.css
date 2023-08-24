@@ -1,0 +1,17 @@
+.cadastro-container {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    height: 100vh;
+    /*background-image: url('caminho-para-sua-imagem-de-fundo.jpg');*/
+    background-size: cover;
+    background-position: center;
+  }
+
+  .cadastro-form {
+    background-color: red; /* Cor vermelha */
+    padding: 20px;
+    border-radius: 8px;
+    color: white;
+  }
+
